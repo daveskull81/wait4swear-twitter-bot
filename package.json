@@ -1,0 +1,27 @@
+{
+  "name": "wait4swear-twitter-bot",
+  "version": "0.0.1",
+  "description": "A Twitter that posts 4 randomly selected letters hoping to spell a swear word",
+  "main": "n/a",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveskull81/wait4swear-twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "David Inden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveskull81/wait4swear-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/daveskull81/wait4swear-twitter-bot#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.5"
+  }
+}
